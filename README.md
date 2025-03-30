@@ -1,7 +1,21 @@
+
+
 # Hi, I'm Amir Hossein Nouri 👋
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=codedpro&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&hide=prs&title_color=ed9004&icon_color=ed9004&bg_color=00000000&rank_icon=github&theme=dark)](https://github.com/codedpro)
+<!-- GitHub Stats Card -->
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=codedpro&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&title_color=ed9004&icon_color=ed9004&bg_color=00000000&theme=dark)](https://github.com/codedpro)
+
+<!-- Top Languages Card -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codedpro&layout=compact&title_color=ed9004&hide_border=true&icon_color=ed9004&bg_color=00000000&theme=dark)
+
+<!-- GitHub Profile Trophy Card (newly added) -->
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=codedpro&theme=onedark&no-frame=true&row=1)](https://github.com/codedpro)
+
+<!-- GitHub Streak Stats Card -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codedpro&theme=dark&hide_border=true)](https://github.com/codedpro)
+
+<!-- Contribution Calendar (full year) -->
+![GitHub Contribution Calendar](https://github-contributions.vercel.app/api?username=codedpro&theme=dark)
 
 <br />
 
