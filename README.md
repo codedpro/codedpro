@@ -1,12 +1,18 @@
 # Hi, I'm Amir Hossein Nouri 👋
 
-<!-- GitHub Streak -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codedpro&theme=dark&hide_border=true)](https://github.com/codedpro)
+<!-- Streak and Top Languages in one row without borders -->
+<table style="border: none;">
+  <tr>
+    <td style="border: none; vertical-align: top;">
+      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codedpro&theme=dark&hide_border=true)](https://github.com/codedpro)
+    </td>
+    <td style="border: none; vertical-align: top;">
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codedpro&layout=compact&title_color=ed9004&hide_border=true&icon_color=ed9004&bg_color=00000000&theme=dark)
+    </td>
+  </tr>
+</table>
 
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codedpro&layout=compact&title_color=ed9004&hide_border=true&icon_color=ed9004&bg_color=00000000&theme=dark)
-
-<!-- Trophies in a new line -->
+<!-- Trophies on a new line -->
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=codedpro&theme=onedark&no-frame=true&row=1)](https://github.com/codedpro)
 
 <br />
@@ -15,46 +21,45 @@
 
 I am a Software Engineer, Solutions Architect, and Technology Leader with expertise in **AI**, **Data Analysis**, **Full-Stack Web Development**, **Blockchain**, **Automation**, and **Telecom Systems**. Since 2018, I have been designing and developing scalable, intelligent platforms that optimize operations, enhance automation, and drive innovation across multiple industries.
 
-I have led and built enterprise AI solutions, large-scale SaaS platforms, blockchain automation systems, and high-frequency trading technologies, helping businesses streamline processes, make data-driven decisions, and scale efficiently. My experience includes developing AI-driven analytics, full-stack infrastructures, financial trading algorithms, and telecom management systems, where I integrate data intelligence, automation, and high-performance engineering to solve complex challenges.
+I have led and built enterprise AI solutions, large-scale SaaS platforms, blockchain automation systems, and high-frequency trading technologies—helping businesses streamline processes, make data-driven decisions, and scale efficiently. My experience includes developing AI-driven analytics, full-stack infrastructures, financial trading algorithms, and telecom management systems, where I integrate data intelligence, automation, and high-performance engineering to solve complex challenges.
 
-Beyond development, I focus on strategic innovation and leadership, ensuring that technology is leveraged to enhance business efficiency, reduce operational overhead, and create scalable digital solutions. Whether it’s architecting AI-powered systems, optimizing blockchain applications, or leading full-stack development teams, I thrive at the intersection of technology, automation, and business growth.
+Beyond development, I focus on strategic innovation and leadership, ensuring technology enhances business efficiency, reduces operational overhead, and creates scalable digital solutions. Whether architecting AI-powered systems, optimizing blockchain applications, or leading full-stack teams, I thrive at the intersection of technology, automation, and business growth.
 
 <br />
 
 ## Contributions
 
-![My Contributions](https://github-contributions.vercel.app/api?username=codedpro&theme=dark)
+![GitHub Contributions](https://ghchart.rshah.org/codedpro)
 
 <br />
 
 ## Collaborations & Companies
-<table>
+<table style="border: none;">
   <tr>
-    <!-- If you don't have official logos, feel free to replace with placeholders or remove the images -->
-    <td align="center">
+    <td align="center" style="border: none;">
       <img src="https://via.placeholder.com/100x40.png?text=MTN+Irancell" alt="MTN Irancell" width="120"/><br/><b>MTN Irancell</b>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <img src="https://via.placeholder.com/100x40.png?text=Huawei" alt="Huawei" width="80"/><br/><b>Huawei</b>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <img src="https://via.placeholder.com/100x40.png?text=AEC" alt="AEC" width="80"/><br/><b>AEC</b>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <img src="https://via.placeholder.com/100x40.png?text=MadGames" alt="MadGames" width="90"/><br/><b>MadGames</b>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <img src="https://via.placeholder.com/100x40.png?text=MigmigWeb" alt="MigmigWeb" width="90"/><br/><b>MigmigWeb</b>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="border: none;">
       <img src="https://via.placeholder.com/100x40.png?text=IPEC" alt="IPEC" width="80"/><br/><b>IPEC Yadgar Iliad</b>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <img src="https://via.placeholder.com/100x40.png?text=Egbal" alt="Egbal" width="80"/><br/><b>Egbal</b>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <img src="https://via.placeholder.com/100x40.png?text=Freelance" alt="Freelance" width="90"/><br/><b>Freelance</b>
     </td>
   </tr>
@@ -68,31 +73,63 @@ Beyond development, I focus on strategic innovation and leadership, ensuring tha
 
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" alt="TensorFlow"/><br/><b>TensorFlow</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" alt="PyTorch"/><br/><b>PyTorch</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" alt="Pandas"/><br/><b>Pandas</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/Polars-ed9004?style=flat-square" width="60" alt="Polars"/><br/><b>Polars</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48" alt="OpenCV"/><br/><b>OpenCV</b></td>
-  </tr>
-  <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache_spark/apache_spark-original.svg" width="48" alt="Spark"/><br/><b>Spark</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" alt="TensorFlow"/><br/><b>TensorFlow</b>
     </td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" width="48" alt="Hadoop"/><br/><b>Hadoop</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/HDFS-ed9004?style=flat-square" width="60" alt="HDFS"/><br/><b>HDFS</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/Hive-ed9004?style=flat-square" width="60" alt="Hive"/><br/><b>Hive</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/Sqoop-ed9004?style=flat-square" width="60" alt="Sqoop"/><br/><b>Sqoop</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL"/><br/><b>PostgreSQL</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" alt="MySQL"/><br/><b>MySQL</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB"/><br/><b>MongoDB</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" alt="SQL Server"/><br/><b>SQL Server</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/FastAPI-ed9004?style=flat-square" width="60" alt="FastAPI"/><br/><b>FastAPI</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="48" alt="Flask"/><br/><b>Flask</b></td>
     <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" alt="PyTorch"/><br/><b>PyTorch</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" alt="Pandas"/><br/><b>Pandas</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Polars-ed9004?style=flat-square" width="60" alt="Polars"/><br/><b>Polars</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48" alt="OpenCV"/><br/><b>OpenCV</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- Corrected Spark image path -->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache-spark/apache-spark-original.svg" width="48" alt="Spark"/><br/><b>Spark</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" width="48" alt="Hadoop"/><br/><b>Hadoop</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HDFS-ed9004?style=flat-square" width="60" alt="HDFS"/><br/><b>HDFS</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Hive-ed9004?style=flat-square" width="60" alt="Hive"/><br/><b>Hive</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Sqoop-ed9004?style=flat-square" width="60" alt="Sqoop"/><br/><b>Sqoop</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL"/><br/><b>PostgreSQL</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" alt="MySQL"/><br/><b>MySQL</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB"/><br/><b>MongoDB</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" alt="SQL Server"/><br/><b>SQL Server</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/FastAPI-ed9004?style=flat-square" width="60" alt="FastAPI"/><br/><b>FastAPI</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="48" alt="Flask"/><br/><b>Flask</b>
+    </td>
+    <td align="center">
+      <!-- Django image corrected if necessary -->
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="48" alt="Django"/><br/><b>Django</b>
     </td>
   </tr>
@@ -152,10 +189,12 @@ Beyond development, I focus on strategic innovation and leadership, ensuring tha
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" alt="Spring Boot"/><br/><b>Spring Boot</b>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="48" alt="Laravel"/><br/><b>Laravel</b>
+      <!-- Updated Laravel path -->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="48" alt="Laravel"/><br/><b>Laravel</b>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="48" alt="ASP.NET"/><br/><b>ASP.NET</b>
+      <!-- Updated ASP.NET path -->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnetcore/aspnetcore-original.svg" width="48" alt="ASP.NET"/><br/><b>ASP.NET</b>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-plain.svg" width="48" alt="Elasticsearch"/><br/><b>Elasticsearch</b>
@@ -307,7 +346,8 @@ Beyond development, I focus on strategic innovation and leadership, ensuring tha
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" alt="AWS"/><br/><b>AWS</b>
+      <!-- Updated AWS path -->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="48" alt="AWS"/><br/><b>AWS</b>
     </td>
   </tr>
 </table>
