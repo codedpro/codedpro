@@ -1,11 +1,13 @@
 # Hi, I'm Amir Hossein Nouri 👋
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
   <a href="https://github.com/codedpro">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=codedpro&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=codedpro&theme=dark&hide_border=true&ring=ed9004&fire=ed9004&currStreakNum=ed9004&currStreakLabel=ed9004&sideLabels=ed9004&dates=ededed" alt="GitHub Streak" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedpro&layout=compact&title_color=ed9004&hide_border=true&icon_color=ed9004&bg_color=00000000&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedpro&layout=compact&title_color=ed9004&hide_border=true&icon_color=ed9004&bg_color=00000000&text_color=ed9004&theme=dark" alt="Top Langs" />
 </div>
+
+<br /><br />
 
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=codedpro&theme=onedark&no-frame=true&row=1)](https://github.com/codedpro)
 
@@ -172,7 +174,7 @@ Beyond development, I focus on strategic innovation and leadership, ensuring tha
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" alt="Spring Boot"/><br/><b>Spring Boot</b>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="48" alt="Laravel"/><br/><b>Laravel</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="48" alt="Laravel"/><br/><b>Laravel</b>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="48" alt="ASP.NET"/><br/><b>ASP.NET</b>
