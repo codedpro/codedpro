@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
     <img 
-      src="https://streak-stats.demolab.com?user=codedpro&hide_border=true&background=151515&ring=ed9004&fire=ed9004&currStreakNum=ed9004&currStreakLabel=ed9004&sideLabels=ed9004&dates=ededed" 
+      src="https://streak-stats.demolab.com?user=codedpro&hide_border=true&background=151515&ring=ed9004&fire=ed9004&currStreakNum=ed9004&currStreakLabel=ffffff&sideLabels=ed9004&dates=ededed" 
       alt="GitHub Streak"
       style="height: 190px;"
     />
