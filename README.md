@@ -1,8 +1,13 @@
 # Hi, I'm Amir Hossein Nouri 👋
 
-<!-- Stats & Languages in One Line -->
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codedpro&theme=dark&hide_border=true)](https://github.com/codedpro) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codedpro&layout=compact&title_color=ed9004&hide_border=true&icon_color=ed9004&bg_color=00000000&theme=dark) | [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=codedpro&theme=onedark&no-frame=true&row=1)](https://github.com/codedpro) |
-| --- | --- | --- |
+<!-- GitHub Streak -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codedpro&theme=dark&hide_border=true)](https://github.com/codedpro)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codedpro&layout=compact&title_color=ed9004&hide_border=true&icon_color=ed9004&bg_color=00000000&theme=dark)
+
+<!-- Trophies in a new line -->
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=codedpro&theme=onedark&no-frame=true&row=1)](https://github.com/codedpro)
 
 <br />
 
@@ -16,37 +21,44 @@ Beyond development, I focus on strategic innovation and leadership, ensuring tha
 
 <br />
 
-## Work Experience
-
-- **MTN Irancell (Aug 2023 – Present)**  
-  Led the development of AI-powered network optimization systems, automated telecom data analysis workflows, and intelligent operational support solutions that significantly improved network reliability, efficiency, and automation.
-
-- **AEC (Mar 2023 – Aug 2023)**  
-  Created a high-performance web and mobile solution to optimize reporting, monitoring, and data management workflows, focusing on real-time engineer tracking and secure data handling.
-
-- **Huawei (Jan 2023 – Mar 2023)**  
-  Developed a secure web application for monitoring on-site engineers and performing data analysis to enhance inventory tracking and resource allocation.
-
-- **MadGames (Feb 2019 – Jan 2023)**  
-  Managed custom multiplayer game servers (Minecraft, Rust, CS:GO), integrating advanced automation, security, and real-time data solutions to enhance gameplay and administrative control.
-
-- **MigmigWeb (Mar 2024 – Present)**  
-  Co-founded and led development of an industry-first reservation-based website builder in Next.js, enabling users to generate fully optimized websites instantly with drastically reduced resource consumption.
-
-- **IPEC Yadgar Iliad Company (Nov 2024 – Present)**  
-  Head of software development, overseeing large-scale software projects, microservices integration, automation, and data management for petrochemical refineries.
-
-- **Egbal (Apr 2024 – Jan 2025)**  
-  Designed and led architecture for an enterprise management platform, ensuring code quality, database optimization, AWS deployments, and streamlined workflows.
-
-- **Freelance & Consultant (Jan 2018 – Present)**  
-  Built AI, web, blockchain, and gaming solutions across numerous projects, including automated trading bots, AI-based video tools, real-time marketplaces, and more.
-
-<br />
-
 ## Contributions
 
 ![My Contributions](https://github-contributions.vercel.app/api?username=codedpro&theme=dark)
+
+<br />
+
+## Collaborations & Companies
+<table>
+  <tr>
+    <!-- If you don't have official logos, feel free to replace with placeholders or remove the images -->
+    <td align="center">
+      <img src="https://via.placeholder.com/100x40.png?text=MTN+Irancell" alt="MTN Irancell" width="120"/><br/><b>MTN Irancell</b>
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/100x40.png?text=Huawei" alt="Huawei" width="80"/><br/><b>Huawei</b>
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/100x40.png?text=AEC" alt="AEC" width="80"/><br/><b>AEC</b>
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/100x40.png?text=MadGames" alt="MadGames" width="90"/><br/><b>MadGames</b>
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/100x40.png?text=MigmigWeb" alt="MigmigWeb" width="90"/><br/><b>MigmigWeb</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/100x40.png?text=IPEC" alt="IPEC" width="80"/><br/><b>IPEC Yadgar Iliad</b>
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/100x40.png?text=Egbal" alt="Egbal" width="80"/><br/><b>Egbal</b>
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/100x40.png?text=Freelance" alt="Freelance" width="90"/><br/><b>Freelance</b>
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -56,62 +68,32 @@ Beyond development, I focus on strategic innovation and leadership, ensuring tha
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" alt="TensorFlow"/><br/><b>TensorFlow</b>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" alt="PyTorch"/><br/><b>PyTorch</b>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" alt="Pandas"/><br/><b>Pandas</b>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Polars-ed9004?style=flat-square" width="80" alt="Polars"/><br/><b>Polars</b>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48" alt="OpenCV"/><br/><b>OpenCV</b>
-    </td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" alt="TensorFlow"/><br/><b>TensorFlow</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" alt="PyTorch"/><br/><b>PyTorch</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" alt="Pandas"/><br/><b>Pandas</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Polars-ed9004?style=flat-square" width="60" alt="Polars"/><br/><b>Polars</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48" alt="OpenCV"/><br/><b>OpenCV</b></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache-spark/apache-spark-original.svg" width="48" alt="Spark"/><br/><b>Spark</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache_spark/apache_spark-original.svg" width="48" alt="Spark"/><br/><b>Spark</b>
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" width="48" alt="Hadoop"/><br/><b>Hadoop</b>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/HDFS-ed9004?style=flat-square" width="60" alt="HDFS"/><br/><b>HDFS</b>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Hive-ed9004?style=flat-square" width="60" alt="Hive"/><br/><b>Hive</b>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Sqoop-ed9004?style=flat-square" width="60" alt="Sqoop"/><br/><b>Sqoop</b>
-    </td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" width="48" alt="Hadoop"/><br/><b>Hadoop</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/HDFS-ed9004?style=flat-square" width="60" alt="HDFS"/><br/><b>HDFS</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Hive-ed9004?style=flat-square" width="60" alt="Hive"/><br/><b>Hive</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Sqoop-ed9004?style=flat-square" width="60" alt="Sqoop"/><br/><b>Sqoop</b></td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL"/><br/><b>PostgreSQL</b>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" alt="MySQL"/><br/><b>MySQL</b>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB"/><br/><b>MongoDB</b>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" alt="SQL Server"/><br/><b>SQL Server</b>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/FastAPI-ed9004?style=flat-square" width="80" alt="FastAPI"/><br/><b>FastAPI</b>
-    </td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL"/><br/><b>PostgreSQL</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" alt="MySQL"/><br/><b>MySQL</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB"/><br/><b>MongoDB</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" alt="SQL Server"/><br/><b>SQL Server</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/FastAPI-ed9004?style=flat-square" width="60" alt="FastAPI"/><br/><b>FastAPI</b></td>
   </tr>
   <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="48" alt="Flask"/><br/><b>Flask</b></td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="48" alt="Flask"/><br/><b>Flask</b>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="48" alt="Django"/><br/><b>Django</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="48" alt="Django"/><br/><b>Django</b>
     </td>
   </tr>
 </table>
@@ -173,7 +155,7 @@ Beyond development, I focus on strategic innovation and leadership, ensuring tha
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="48" alt="Laravel"/><br/><b>Laravel</b>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnetcore/aspnetcore-original.svg" width="48" alt="ASP.NET"/><br/><b>ASP.NET</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="48" alt="ASP.NET"/><br/><b>ASP.NET</b>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-plain.svg" width="48" alt="Elasticsearch"/><br/><b>Elasticsearch</b>
@@ -200,7 +182,7 @@ Beyond development, I focus on strategic innovation and leadership, ensuring tha
       <img src="https://img.shields.io/badge/MQL4/MQL5-ed9004?style=flat-square" width="80" alt="MQL4/MQL5"/><br/><b>MQL4/MQL5</b>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/TradingBots-ed9004?style=flat-square" width="80" alt="Trading Bots"/><br/><b>Trading Bots</b>
+      <img src="https://img.shields.io/badge/TradingBots-ed9004?style=flat-square" width="90" alt="Trading Bots"/><br/><b>Trading Bots</b>
     </td>
   </tr>
 </table>
