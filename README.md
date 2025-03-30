@@ -1,160 +1,40 @@
-<!-- 
-  A more visually appealing GitHub Profile README 
-  with side-by-side widgets, a short summary, and a larger tech stack section.
-  Feel free to adjust the icons, links, or text as needed.
--->
+# Hi, I'm Amir Hossein Nouri 👋
 
-# Amir Hossein Nouri
+<!-- GitHub Stats Widgets (Flaming-Chameleon Style) -->
+[![FlaminChameleon's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=flaming-chameleon&show_icons=true&hide_border=true&hide=prs&title_color=ed9004&icon_color=ed9004&bg_color=00000000&rank_icon=github&theme=dark)](https://github.com/flaming-chameleon/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaming-chameleon&layout=compact&title_color=ed9004&hide_border=true&icon_color=ed9004&bg_color=00000000&theme=dark)
 
-<div align="center" style="margin-bottom: 20px;">
-  <!-- Replace with your own username -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codedpro&theme=radical" alt="Most Used Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=codedpro&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+<br />
 
-## Summary
+<!-- Tech Badges (Customized: Removed unwanted Telegram/YouTube parts) -->
+![Python - Python](https://img.shields.io/badge/Python-Python-ed9004?logo=python&logoColor=ed9004)
+![Rust - Rust](https://img.shields.io/badge/Rust-Rust-ed9004?logo=rust&logoColor=ed9004)
+![React - React](https://img.shields.io/badge/React-React-ed9004?logo=react&logoColor=ed9004)
+![Linux - Linux](https://img.shields.io/badge/Linux-Linux-ed9004?logo=linux&logoColor=ed9004)
+![Docker - Docker](https://img.shields.io/badge/Docker-Docker-ed9004?logo=docker&logoColor=ed9004)
 
-**Software Engineer & Operations Solutions Architect** with experience in **AI**, **Data Analysis**, **Full-Stack Web Development**, **Blockchain**, **Automation**, and **Telecom Systems**.  
-I've built enterprise AI solutions, large-scale SaaS platforms, blockchain automation, and high-frequency trading technologies since 2018. I lead teams and architect solutions that reduce overhead, drive innovation, and streamline processes across multiple industries.
+<br />
 
-## Tech Stack
+<!-- Animated Header & Summary Section -->
+<p>
+  <a href="https://open.spotify.com/user/4bio4arq8izb9sba4ly6al54v">
+    <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=4bio4arq8izb9sba4ly6al54v&cover_image=true&theme=novatorem" width="39%">
+  </a>
+  <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <img align="left" src="https://media.tenor.com/images/043986fe5f470eeb6d86515e6cda30fe/tenor.gif" width="50">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=F70000&size=28&center=true&vCenter=true&multiline=true&weight=400&height=100&width=220&lines=Hey+there%2C;I%27m+Amir+Hossein+Nouri+!">
+    <br />
+    <img alt="visitor's count" src="https://profile-counter.glitch.me/{AmirHosseinNouri}/count.svg">
+  </div>
+</p>
+<a href="https://portfolio.codedpro.net" target="_blank">
+  <img align="right" src="https://via.placeholder.com/250x150.png?text=My+Portfolio" width="25%" height="auto">
+</a>
 
-<table border="0" width="100%">
-  <tr>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" />
-      <br /><b>Python</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" />
-      <br /><b>Java</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
-      <br /><b>JavaScript</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" />
-      <br /><b>TypeScript</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" />
-      <br /><b>C#</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" />
-      <br /><b>C++</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="48" height="48" />
-      <br /><b>Rust</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="48" height="48" />
-      <br /><b>Kotlin</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" />
-      <br /><b>PHP</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="48" height="48" />
-      <br /><b>HTML</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="48" height="48" />
-      <br /><b>CSS</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="48" height="48" />
-      <br /><b>Django</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="48" height="48" />
-      <br /><b>Flask</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48" />
-      <br /><b>FastAPI</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="48" height="48" />
-      <br /><b>Laravel</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="48" height="48" />
-      <br /><b>.NET</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg" alt="AdonisJS" width="48" height="48" />
-      <br /><b>AdonisJS</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" />
-      <br /><b>MySQL</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />
-      <br /><b>PostgreSQL</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" />
-      <br /><b>MongoDB</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" />
-      <br /><b>Redis</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" height="48" />
-      <br /><b>TensorFlow</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48" />
-      <br /><b>PyTorch</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="48" height="48" />
-      <br /><b>OpenCV</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="48" height="48" />
-      <br /><b>Hadoop</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache" width="48" height="48" />
-      <br /><b>Apache</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spark/spark-original.svg" alt="Spark" width="48" height="48" />
-      <br /><b>Spark</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" />
-      <br /><b>Docker</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="48" height="48" />
-      <br /><b>AWS</b>
-    </td>
-    <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="48" height="48" />
-      <br /><b>Solidity</b>
-    </td>
-  </tr>
-</table>
+[![Portfolio](https://img.shields.io/badge/Check_out_my_Portfolio-Portfolio-blue?style=for-the-badge&logo=google-chrome)](https://portfolio.codedpro.net)  
+[![Resume](https://img.shields.io/badge/Download_my_Resume-Resume-blue?style=for-the-badge&logo=linkedin)](https://your-resume-link.com)  
+[![Email](https://img.shields.io/badge/Contact_me-Email-ed9004?style=for-the-badge&logo=gmail)](mailto:dev.codedpro@gmail.com)
 
-## Connect With Me
-
-- **GitHub**: [github.com/codedpro](https://github.com/codedpro)
-- **Email**: [dev.codedpro@gmail.com](mailto:dev.codedpro@gmail.com)
-- **Portfolio**: [portfolio.codedpro.net](https://portfolio.codedpro.net)
-- **LinkedIn**: [Your LinkedIn Link](#)
+- :crystal_ball: &nbsp;I’m currently exploring 3D UI Designs & advanced Web Technologies.
+- :computer: &nbsp;I specialize in AI, Data Analysis, Full-Stack Web Development, Blockchain, Automation, and Telecom Systems.
+- :video_game: &nbsp;**Hobbies:** Coding, Open-Source, Public Speaking, PC Gaming, and Soccer.
