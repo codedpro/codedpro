@@ -19,8 +19,6 @@
 <br/><br/>
 
 
-<br /><br />
-
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=codedpro&theme=onedark&no-frame=true&row=1)](https://github.com/codedpro)
 
 <br />
