@@ -183,7 +183,7 @@ Beyond development, I focus on strategic innovation and leadership, ensuring tha
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" alt="Spring Boot"/><br/><b>Spring Boot</b>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="48" alt="Laravel"/><br/><b>Laravel</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="48" alt="Laravel"/><br/><b>Laravel</b>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="48" alt="ASP.NET"/><br/><b>ASP.NET</b>
