@@ -1,20 +1,12 @@
 # Hi, I'm Amir Hossein Nouri 👋
 
-<!-- Streak & Most Used Languages in One Line -->
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/codedpro">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=codedpro&theme=dark&hide_border=true" alt="GitHub Streak" />
-      </a>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedpro&layout=compact&title_color=ed9004&hide_border=true&icon_color=ed9004&bg_color=00000000&theme=dark" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://github.com/codedpro">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=codedpro&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedpro&layout=compact&title_color=ed9004&hide_border=true&icon_color=ed9004&bg_color=00000000&theme=dark" alt="Top Langs" />
+</div>
 
-<!-- Trophies -->
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=codedpro&theme=onedark&no-frame=true&row=1)](https://github.com/codedpro)
 
 <br />
@@ -26,13 +18,6 @@ I am a Software Engineer, Solutions Architect, and Technology Leader with expert
 I have led and built enterprise AI solutions, large-scale SaaS platforms, blockchain automation systems, and high-frequency trading technologies, helping businesses streamline processes, make data-driven decisions, and scale efficiently. My experience includes developing AI-driven analytics, full-stack infrastructures, financial trading algorithms, and telecom management systems, where I integrate data intelligence, automation, and high-performance engineering to solve complex challenges.
 
 Beyond development, I focus on strategic innovation and leadership, ensuring that technology is leveraged to enhance business efficiency, reduce operational overhead, and create scalable digital solutions. Whether it’s architecting AI-powered systems, optimizing blockchain applications, or leading full-stack development teams, I thrive at the intersection of technology, automation, and business growth.
-
-<br />
-
-## Contributions
-
-<!-- Alternative dark-themed chart generator -->
-![My Contributions](https://ghchart.rshah.org/codedpro?theme=dark)
 
 <br />
 
@@ -73,7 +58,6 @@ Beyond development, I focus on strategic innovation and leadership, ensuring tha
 ## Tech Stack
 
 ### AI, Data Science & Big Data
-
 <table>
   <tr>
     <td align="center">
@@ -94,8 +78,7 @@ Beyond development, I focus on strategic innovation and leadership, ensuring tha
   </tr>
   <tr>
     <td align="center">
-      <!-- Using a valid Spark devicon path -->
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" width="60" alt="Apache Spark"/><br/><b>Spark</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" width="60" alt="Spark"/><br/><b>Spark</b>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" width="48" alt="Hadoop"/><br/><b>Hadoop</b>
@@ -142,7 +125,6 @@ Beyond development, I focus on strategic innovation and leadership, ensuring tha
 ### Full-Stack Web Development & SaaS
 
 #### Frontend
-
 <table>
   <tr>
     <td align="center">
@@ -181,7 +163,6 @@ Beyond development, I focus on strategic innovation and leadership, ensuring tha
 </table>
 
 #### Backend
-
 <table>
   <tr>
     <td align="center">
@@ -191,7 +172,6 @@ Beyond development, I focus on strategic innovation and leadership, ensuring tha
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" alt="Spring Boot"/><br/><b>Spring Boot</b>
     </td>
     <td align="center">
-      <!-- Using a working Laravel wordmark icon -->
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="48" alt="Laravel"/><br/><b>Laravel</b>
     </td>
     <td align="center">
@@ -206,7 +186,6 @@ Beyond development, I focus on strategic innovation and leadership, ensuring tha
 <br />
 
 ### Blockchain & Crypto Development
-
 <table>
   <tr>
     <td align="center">
@@ -230,7 +209,6 @@ Beyond development, I focus on strategic innovation and leadership, ensuring tha
 <br />
 
 ### Creative & Design Tools
-
 <table>
   <tr>
     <td align="center">
@@ -251,7 +229,6 @@ Beyond development, I focus on strategic innovation and leadership, ensuring tha
 <br />
 
 ### General Programming & Scripting Languages (20+)
-
 <table>
   <tr>
     <td align="center">
@@ -326,7 +303,6 @@ Beyond development, I focus on strategic innovation and leadership, ensuring tha
 <br />
 
 ### Security, Automation & DevOps
-
 <table>
   <tr>
     <td align="center">
@@ -347,7 +323,6 @@ Beyond development, I focus on strategic innovation and leadership, ensuring tha
   </tr>
   <tr>
     <td align="center">
-      <!-- Using an AWS wordmark icon that definitely exists -->
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80" alt="AWS"/><br/><b>AWS</b>
     </td>
   </tr>
@@ -356,7 +331,6 @@ Beyond development, I focus on strategic innovation and leadership, ensuring tha
 <br />
 
 ### Game Development & Multiplayer Systems
-
 <table>
   <tr>
     <td align="center">
