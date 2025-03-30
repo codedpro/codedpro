@@ -1,15 +1,13 @@
 # Hi, I'm Amir Hossein Nouri 👋
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codedpro
-&include_all_commits=true
-&count_private=true
-&show_icons=true
-&hide_border=true
-&title_color=ed9004
-&icon_color=ed9004
-&bg_color=00000000
-&rank_icon=percentile
-&theme=dark)](https://github.com/codedpro)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=codedpro&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&hide=prs&title_color=ed9004&icon_color=ed9004&bg_color=00000000&rank_icon=github&theme=dark)](https://github.com/codedpro)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codedpro&layout=compact&title_color=ed9004&hide_border=true&icon_color=ed9004&bg_color=00000000&theme=dark)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codedpro&theme=dark&hide_border=true)](https://github.com/codedpro)
+
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=codedpro&theme=onedark&no-frame=true&row=1)](https://github.com/codedpro)
+
 <br />
 
 ## Summary
@@ -18,16 +16,9 @@ I am a Software Engineer, Solutions Architect, and Technology Leader with expert
 
 <br />
 
-## Pinned Repositories
+## Contributions
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=codedpro&repo=SomeAwesomeProject&show_owner=true&title_color=ed9004&icon_color=ed9004&bg_color=00000000&hide_border=true&theme=dark)](https://github.com/codedpro/SomeAwesomeProject)  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=codedpro&repo=AnotherGreatRepo&title_color=ed9004&icon_color=ed9004&bg_color=00000000&hide_border=true&theme=dark)](https://github.com/codedpro/AnotherGreatRepo)
-
-<br />
-
-## WakaTime Stats
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=codedpro&hide_border=true&title_color=ed9004&icon_color=ed9004&bg_color=00000000&theme=dark)](https://wakatime.com/@codedpro)
+![My Contributions](https://github-contributions.vercel.app/api?username=codedpro&theme=dark)
 
 <br />
 
