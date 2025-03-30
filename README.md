@@ -2,9 +2,9 @@
 
 <div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
   <a href="https://github.com/codedpro">
-    <img src="https://streak-stats.demolab.com?user=codedpro&hide_border=true&background=00000000&ring=ed9004&fire=ed9004&currStreakNum=ed9004&currStreakLabel=ed9004&sideLabels=ed9004&dates=ededed" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=codedpro&hide_border=true&background=#151515&ring=ed9004&fire=ed9004&currStreakNum=ed9004&currStreakLabel=ed9004&sideLabels=ed9004&dates=ededed" alt="GitHub Streak" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedpro&layout=compact&title_color=ed9004&text_color=ed9004&icon_color=ed9004&bg_color=00000000&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedpro&layout=compact&title_color=ed9004&text_color=ed9004&icon_color=ed9004&bg_color=151515&hide_border=true" alt="Top Langs" />
 </div>
 
 <br/><br/>
