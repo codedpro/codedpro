@@ -7,7 +7,7 @@
       style="height: 190px;"
     />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedpro&layout=compact&title_color=ed9004&text_color=ed9004&icon_color=ed9004&bg_color=151515&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedpro&layout=compact&title_color=ed9004&text_color=ffffff&icon_color=ed9004&bg_color=151515&hide_border=true" 
     alt="Top Langs"
     style="height: 190px;"
   />
