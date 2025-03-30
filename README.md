@@ -32,39 +32,7 @@ Beyond development, I focus on strategic innovation and leadership, ensuring tha
 
 <br />
 
-## Collaborations & Companies
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/100x40.png?text=MTN+Irancell" alt="MTN Irancell" width="120"/><br/><b>MTN Irancell</b>
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/100x40.png?text=Huawei" alt="Huawei" width="100"/><br/><b>Huawei</b>
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/100x40.png?text=AEC" alt="AEC" width="80"/><br/><b>AEC</b>
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/100x40.png?text=MadGames" alt="MadGames" width="90"/><br/><b>MadGames</b>
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/100x40.png?text=MigmigWeb" alt="MigmigWeb" width="90"/><br/><b>MigmigWeb</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/100x40.png?text=IPEC" alt="IPEC" width="80"/><br/><b>IPEC Yadgar Iliad</b>
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/100x40.png?text=Egbal" alt="Egbal" width="80"/><br/><b>Egbal</b>
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/100x40.png?text=Freelance" alt="Freelance" width="90"/><br/><b>Freelance</b>
-    </td>
-  </tr>
-</table>
 
-<br />
 
 ## Tech Stack
 
