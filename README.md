@@ -121,7 +121,7 @@ Beyond development, I focus on strategic innovation and leadership, ensuring tha
       <img src="https://img.shields.io/badge/Nuxt.js-ed9004?style=flat-square" width="60" alt="Nuxt.js"/><br/><b>Nuxt.js</b>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" alt="TailwindCSS"/><br/><b>TailwindCSS</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" alt="TailwindCSS"/><br/><b>TailwindCSS</b>
     </td>
   </tr>
   <tr>
