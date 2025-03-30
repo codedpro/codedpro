@@ -88,7 +88,7 @@ Beyond development, I focus on strategic innovation and leadership, ensuring tha
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" alt="SQL Server"/><br/><b>SQL Server</b>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/FastAPI-ed9004?style=flat-square" width="60" alt="FastAPI"/><br/><b>FastAPI</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="60" alt="FastAPI"/><br/><b>FastAPI</b>
     </td>
   </tr>
   <tr>
