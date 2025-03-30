@@ -1,8 +1,15 @@
 # Hi, I'm Amir Hossein Nouri 👋
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=codedpro&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&hide=prs&title_color=ed9004&icon_color=ed9004&bg_color=00000000&rank_icon=github&theme=dark)](https://github.com/codedpro)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codedpro&layout=compact&title_color=ed9004&hide_border=true&icon_color=ed9004&bg_color=00000000&theme=dark)
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codedpro
+&include_all_commits=true
+&count_private=true
+&show_icons=true
+&hide_border=true
+&title_color=ed9004
+&icon_color=ed9004
+&bg_color=00000000
+&rank_icon=percentile
+&theme=dark)](https://github.com/codedpro)
 <br />
 
 ## Summary
