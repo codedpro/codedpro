@@ -1,8 +1,8 @@
 # Hi, I'm Amir Hossein Nouri 👋
 
 <!-- GitHub Stats Widgets (Flaming-Chameleon Style) -->
-[![FlaminChameleon's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=flaming-chameleon&show_icons=true&hide_border=true&hide=prs&title_color=ed9004&icon_color=ed9004&bg_color=00000000&rank_icon=github&theme=dark)](https://github.com/flaming-chameleon/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaming-chameleon&layout=compact&title_color=ed9004&hide_border=true&icon_color=ed9004&bg_color=00000000&theme=dark)
+[![FlaminChameleon's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=codedpro&show_icons=true&hide_border=true&hide=prs&title_color=ed9004&icon_color=ed9004&bg_color=00000000&rank_icon=github&theme=dark)](https://github.com/flaming-chameleon/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codedpro&layout=compact&title_color=ed9004&hide_border=true&icon_color=ed9004&bg_color=00000000&theme=dark)
 
 <br />
 
