@@ -24,14 +24,13 @@
 
 ## Summary
 
-I am a Software Engineer, Solutions Architect, and Technology Leader with expertise in AI, Data Analysis, Full-Stack Web Development, Blockchain, Automation, and Telecom Systems. Since 2018, I have been designing and developing scalable, intelligent platforms that optimize operations, enhance automation, and drive innovation across multiple industries.
+I am a Software Engineer, Solutions Architect, and Technology Leader with expertise in **AI**, **Data Analysis**, **Full-Stack Web Development**, **Blockchain**, **Automation**, and **Telecom Systems**. Since 2018, I have been designing and developing scalable, intelligent platforms that optimize operations, enhance automation, and drive innovation across multiple industries.
 
-At MTN Irancell, I developed real-time telecom management systems that enhanced data analysis and automated KPI degradation insights. I also collaborated with Huawei and AEC to build secure enterprise tools and infrastructure for telecom and field operations. Through MigmigWeb, I co-led the creation of a blazing-fast reservation-based website builder SaaS product. At Egbal and IPEC Yadgar Iliad, I directed full-stack development and DevOps for large-scale petrochemical and enterprise systems.
+At **MTN Irancell**, I developed real-time telecom management systems that enhanced data analysis and automated KPI degradation insights. I also collaborated with **Huawei** and **AEC** to build secure enterprise tools and infrastructure for telecom and field operations. Through **MigmigWeb**, I co-led the creation of a blazing-fast reservation-based website builder SaaS product. At **Egbal** and **IPEC Yadgar Iliad**, I directed full-stack development and DevOps for large-scale petrochemical and enterprise systems.
 
 I have led and built enterprise AI solutions, large-scale SaaS platforms, blockchain automation systems, and high-frequency trading technologies—helping businesses streamline processes, make data-driven decisions, and scale efficiently. My experience includes developing AI-driven analytics, full-stack infrastructures, financial trading algorithms, and telecom management systems, where I integrate data intelligence, automation, and high-performance engineering to solve complex challenges.
 
 Beyond development, I focus on strategic innovation and leadership, ensuring that technology is leveraged to enhance business efficiency, reduce operational overhead, and create scalable digital solutions. Whether it’s architecting AI-powered systems, optimizing blockchain applications, or leading full-stack development teams, I thrive at the intersection of technology, automation, and business growth.
-
 
 <br />
 
