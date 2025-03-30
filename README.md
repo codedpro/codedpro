@@ -1,15 +1,15 @@
 # Hi, I'm Amir Hossein Nouri 👋
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=codedpro&include_all_commits=true&show_icons=true&hide_border=true&hide=prs&title_color=ed9004&icon_color=ed9004&bg_color=00000000&rank_icon=github&theme=dark)](https://github.com/codedpro)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=codedpro&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&hide=prs&title_color=ed9004&icon_color=ed9004&bg_color=00000000&rank_icon=github&theme=dark)](https://github.com/codedpro)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codedpro&layout=compact&title_color=ed9004&hide_border=true&icon_color=ed9004&bg_color=00000000&theme=dark)
+
+<br />
 
 ## Summary
 
-I am a Software Engineer, Solutions Architect, and Technology Leader with expertise in **AI**, **Data Analysis**, **Full-Stack Web Development**, **Blockchain**, **Automation**, and **Telecom Systems**. Since 2018, I have been designing and developing scalable, intelligent platforms that optimize operations, enhance automation, and drive innovation across multiple industries. I have led enterprise AI solutions, large-scale SaaS platforms, blockchain automation systems, and high-frequency trading technologies to streamline processes and drive business growth.
+I am a Software Engineer, Solutions Architect, and Technology Leader with expertise in **AI**, **Data Analysis**, **Full-Stack Web Development**, **Blockchain**, **Automation**, and **Telecom Systems**. Since 2018, I have been designing and developing scalable, intelligent platforms that optimize operations, enhance automation, and drive innovation across multiple industries. I have led enterprise AI solutions, large-scale SaaS platforms, blockchain automation systems, and high-frequency trading technologies—integrating data intelligence and high-performance engineering to solve complex challenges and drive business growth.
 
-## Contributions
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codedpro&theme=dracula&hide_border=true)
+<br />
 
 ## Tech Stack
 
@@ -42,6 +42,8 @@ I am a Software Engineer, Solutions Architect, and Technology Leader with expert
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="48" alt="Django"/><br/><b>Django</b></td>
   </tr>
 </table>
+
+<br />
 
 ### Full-Stack Web Development & SaaS
 
@@ -76,6 +78,8 @@ I am a Software Engineer, Solutions Architect, and Technology Leader with expert
   </tr>
 </table>
 
+<br />
+
 ### Blockchain & Crypto Development
 
 <table>
@@ -88,6 +92,8 @@ I am a Software Engineer, Solutions Architect, and Technology Leader with expert
   </tr>
 </table>
 
+<br />
+
 ### Creative & Design Tools
 
 <table>
@@ -99,27 +105,42 @@ I am a Software Engineer, Solutions Architect, and Technology Leader with expert
   </tr>
 </table>
 
+<br />
+
 ### General Programming & Scripting Languages
 
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" alt="Java"/><br/><b>Java</b></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" alt="C#"/><br/><b>C#</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" alt="Python"/><br/><b>Python</b></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" alt="JavaScript"/><br/><b>JavaScript</b></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" alt="TypeScript"/><br/><b>TypeScript</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" alt="PHP"/><br/><b>PHP</b></td>
   </tr>
   <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" alt="PHP"/><br/><b>PHP</b></td>
     <td align="center"><img src="https://img.shields.io/badge/SQL-ed9004?style=flat-square" width="48" alt="SQL"/><br/><b>SQL</b></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="48" alt="Rust"/><br/><b>Rust</b></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++"/><br/><b>C++</b></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="48" alt="Kotlin"/><br/><b>Kotlin</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" alt="Bash"/><br/><b>Bash</b></td>
   </tr>
   <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" alt="Bash"/><br/><b>Bash</b></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="48" alt="Swift"/><br/><b>Swift</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="48" alt="Solidity"/><br/><b>Solidity</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/HiveQL-ed9004?style=flat-square" width="48" alt="HiveQL"/><br/><b>HiveQL</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Batch-ed9004?style=flat-square" width="48" alt="Batch"/><br/><b>Batch</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/MQL4/MQL5-ed9004?style=flat-square" width="48" alt="MQL4/MQL5"/><br/><b>MQL4/MQL5</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" alt="C"/><br/><b>C</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="48" alt="Ruby"/><br/><b>Ruby</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" alt="Go"/><br/><b>Go</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" width="48" alt="Perl"/><br/><b>Perl</b></td>
   </tr>
 </table>
+
+<br />
 
 ### Security, Automation & DevOps
 
@@ -135,6 +156,8 @@ I am a Software Engineer, Solutions Architect, and Technology Leader with expert
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" alt="AWS"/><br/><b>AWS</b></td>
   </tr>
 </table>
+
+<br />
 
 ### Game Development & Multiplayer Systems
 
